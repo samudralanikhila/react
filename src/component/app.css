@@ -1,0 +1,12 @@
+h2{
+    color: red;
+    font-size: 30px;
+
+}
+.fun1{
+    background-color: aqua;
+    width:600px;
+    padding: 25px;
+    border-radius: 25px;
+    border: 1px solid red;
+}

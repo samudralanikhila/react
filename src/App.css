@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  background-color: rgb(228, 206, 225);
+}
+h1{
+  text-align: center;
+  color: red;
+  text-shadow: 2px 2PX pink;
+  font-size:35px;
+}
+button{
+  margin: 50px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: aquamarine;
+}
+button:hover{
+  background-color: cadetblue;
+}
+.fun-class{
+  margin-top: 75px;
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
